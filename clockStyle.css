@@ -1,0 +1,19 @@
+body {
+   font-family: Arial, sans-serif;
+   background-color: #f2f2f2;
+}
+
+.container {
+   text-align: center;
+   margin-top: 100px;
+}
+
+h1 {
+   color: #333;
+}
+
+.time {
+   font-size: 48px;
+   color: #333;
+   margin-bottom: 20px;
+}
